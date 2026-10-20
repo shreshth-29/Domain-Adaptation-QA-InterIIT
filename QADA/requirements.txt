@@ -1,5 +1,5 @@
 gdown
 numpy
-torch=1.12.1
+torch==1.12.1
 boto3
 json_lines
